@@ -51,20 +51,18 @@ A digital community platform designed for residents to:
 
 - Git
 - GitHub
-- Linux (Xubuntu)
+- Linux (Xubuntu on top of ubuntu)
 - VS Code
 - Cursor AI
+- winsurf
+- Antigravity ide
 
 ---
 
 ##  Currently Learning
 
-- Advanced Next.js
-- MongoDB
+
 - Docker
-- AWS Cloud
-- System Design
-- Clean Architecture
 
 ---
 

@@ -57,8 +57,7 @@ A digital community platform designed for residents to:
 - Linux (Xubuntu,kubuntu on top of ubuntu)
 - VS Code
 - opencode
-- Antigravity ide
-- 
+- Antigravity ide 
 ---
 
 ##  Currently Learning

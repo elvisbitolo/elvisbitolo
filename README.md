@@ -40,6 +40,9 @@ A digital community platform designed for residents to:
 - Node.js
 - Express.js
 - REST APIs
+- Next.js
+- bcrypt
+- jwt
 
 ### Databases
 
@@ -51,12 +54,11 @@ A digital community platform designed for residents to:
 
 - Git
 - GitHub
-- Linux (Xubuntu on top of ubuntu)
+- Linux (Xubuntu,kubuntu on top of ubuntu)
 - VS Code
-- Cursor AI
-- winsurf
+- opencode
 - Antigravity ide
-
+- 
 ---
 
 ##  Currently Learning
@@ -77,7 +79,7 @@ A digital community platform designed for residents to:
 ## Connect With Me
 
 - LinkedIn: https://linkedin.com/in/elvis-bitolo
-- Portfolio: https://elvisbitolo.netlify.app/
+- Portfolio: https://elvisbitolo.vercel.app/
 - Email: elvisbitolo11@gmail.com
 
 ---
@@ -86,4 +88,4 @@ A digital community platform designed for residents to:
 
 > "Technology should solve real problems and improve people's lives."
 
-Thanks for stopping by! 
+Thanks for stopping by 

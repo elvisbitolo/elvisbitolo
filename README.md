@@ -43,14 +43,14 @@ A digital community platform designed for residents to:
 - Next.js
 - bcrypt
 - jwt
+- prisma
 
 ### Databases
 
 - MongoDB
 - Firebase Firestore
-- PostgreSQL (Learning)
-
-### Tools
+- PostgreSQL
+- ### Tools
 
 - Git
 - GitHub

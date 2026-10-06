@@ -1,5 +1,9 @@
 # Hi, I'm Elvis Bitolo Khanyanga 
 
+<p align="center">
+  <img src="./assets/profile.jpg" alt="Elvis Bitolo Khanyanga" width="420" />
+</p>
+
 **Full-Stack Developer · Nairobi, Kenya**
 
 You need a website or web app that looks professional, loads fast on mobile, and works for real users. That's what I build, from first design to live deployment.

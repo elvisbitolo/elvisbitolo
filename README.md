@@ -1,10 +1,26 @@
-# Hi, I'm Elvis Bitolo Khanyanga 
+# Hi, I'm Elvis Bitolo Khanyanga
 
-<p align="center">
-  <img src="./assets/profile.jpg" alt="Elvis Bitolo Khanyanga" width="420" />
-</p>
-
-**Full-Stack Developer · Nairobi, Kenya**
+<table>
+  <tr>
+    <td valign="middle" align="center" width="260">
+      <img src="./assets/profile.jpg" alt="Elvis Bitolo Khanyanga" width="220" height="220" style="border-radius: 22px; box-shadow: 0 12px 30px rgba(0,0,0,0.18); border: 1px solid rgba(255,255,255,0.12);" />
+    </td>
+    <td valign="middle">
+      <h3><strong>Full-Stack Developer · Nairobi, Kenya</strong></h3>
+      <p>
+        I build polished websites and web apps that feel premium, load fast on mobile, and work beautifully for real users.
+      </p>
+      <p>
+        From business websites to community platforms and full-stack tools, I design and build experiences that look professional and convert.
+      </p>
+      <p>
+        <a href="mailto:elvisbitolo11@gmail.com">Email</a> ·
+        <a href="https://linkedin.com/in/elvis-bitolo">LinkedIn</a> ·
+        <a href="https://elvisbitolo.vercel.app/">Portfolio</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 You need a website or web app that looks professional, loads fast on mobile, and works for real users. That's what I build, from first design to live deployment.
 

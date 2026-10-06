@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td valign="middle" align="center" width="260">
-      <img src="./assets/profile.jpg" alt="Elvis Bitolo Khanyanga" width="220" height="220" style="border-radius: 22px; box-shadow: 0 12px 30px rgba(0,0,0,0.18); border: 1px solid rgba(255,255,255,0.12);" />
+      <img src="./elvis-photo-cutout.png" alt="Elvis Bitolo Khanyanga" width="220" height="220" style="border-radius: 22px; box-shadow: 0 12px 30px rgba(0,0,0,0.18); border: 1px solid rgba(255,255,255,0.12);" />
     </td>
     <td valign="middle">
       <h3><strong>Full-Stack Developer · Nairobi, Kenya</strong></h3>
